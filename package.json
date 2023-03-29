@@ -17,7 +17,7 @@
     "serializer"
   ],
   "author": "Krisna Pranav",
-  "repository": "krishpranav/json-api-serializer",
+  "repository": "krishpranav/json.js",
   "license": "MIT",
   "engines": {
     "node": ">= 8.0.0"
